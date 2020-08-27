@@ -1,5 +1,7 @@
 # 👋🏻 Hi, I'm Sara Alite! 💻
 
+![ASD](https://img.shields.io/badge/Javascript-grey?logo=javascript&logoColor=yellow) ![ASD](https://img.shields.io/badge/React-blue?logo=react&logoColor=white) ![ASD](https://img.shields.io/badge/HTML5-grey?logo=html5&logoColor=orange) ![ASD](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)![ASD](https://img.shields.io/badge/Bootstrap-blueviolet?logo=bootstrap&logoColor=white) ![ASD](https://img.shields.io/badge/SASS-ff69b4?logo=SASS&logoColor=white) ![ASD](https://img.shields.io/badge/Git-red?logo=Git&logoColor=white)
+
 ## I am a front end developer 👩🏻‍💻
 
 I love human and tech languages. At the university I studied translation and Interpreting and I learned English 🇬🇧 and French 🇫🇷 for years.
@@ -14,12 +16,6 @@ Below you can check some of the projects that I started during the course, remem
 I am from Spain 🇪🇸 and I live in Madrid.
 
 In my free time I love reading 📚 about nutrition and psychology (but I also enjoy a good novel!), watching good horror movies 💀, wandering around the city or the nature 🍂, doing handcrafts ✂️ and I am a total nerd of vegan cooking! 🥦
-
-### Technologies
-
-![ASD](https://img.shields.io/badge/Javascript-grey?logo=javascript&logoColor=yellow) ![ASD](https://img.shields.io/badge/React-blue?logo=react&logoColor=white) ![ASD](https://img.shields.io/badge/HTML5-grey?logo=html5&logoColor=orange) ![ASD](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-
-![ASD](https://img.shields.io/badge/Bootstrap-blueviolet?logo=bootstrap&logoColor=white) ![ASD](https://img.shields.io/badge/SASS-ff69b4?logo=SASS&logoColor=white) ![ASD](https://img.shields.io/badge/Git-red?logo=Git&logoColor=white)
 
 ### Currently learning
 
