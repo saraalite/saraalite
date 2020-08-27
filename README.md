@@ -1,4 +1,4 @@
-<img src="fondo.png" alt="background" style="width:100%"/>
+<img src="https://raw.githubusercontent.com/saraalite/saraalite/master/fondo.png" alt="background" style="width:100%"/>
 
 # 👋🏻 Hi, I'm Sara Alite! 💻
 
