@@ -2,9 +2,10 @@
 
 ## I am a front end developer 👩🏻‍💻
 
-I love human and tech languages. At the university I studied translation and Interpreting where I learned English 🇬🇧 and French 🇫🇷 for years and I have even studied some Romanian 🇷🇴 and Spanish sign language 🧏‍♀️ , so now I am focusing on learning tech languages with the same passion.
+I love human and tech languages. At the university I studied translation and Interpreting and I learned English 🇬🇧 and French 🇫🇷 for years.
+I have even studied some Romanian 🇷🇴 and Spanish sign language 🧏‍♀️ , so now I am focusing on learning tech languages with the same passion.
 
-I decided to study a bootcamp to become a front end developer and...here am I!
+After I discovered that I actually loved coding I decided to study a bootcamp to become a front end developer and...here am I!
 
 Below you can check some of the projects that I started during the course, remember that some of them are not finished yet, but I am working on them. Comments and improvements are welcome!
 
