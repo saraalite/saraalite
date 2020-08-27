@@ -31,6 +31,10 @@ In my free time I love reading 📚 about nutrition and psychology (but I also e
 
 You can find me on Linkedin and Twitter. You can also send me an email, I am currently looking for a job, so if you are interested in hiring me, contact me ;)
 
-<a href="https://www.linkedin.com/in/sara-alite-villodre-10055918a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%23678?logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sara-alite-villodre-10055918a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
 
-<a href="mailto:saraalite@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%23694680?logo=gmail&logoColor=white"></a>
+<a href="https://twitter.com/sara_and_code" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white"></a>
+
+<!-- <a href="mailto:saraalite@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%23694680?logo=gmail&logoColor=white"></a> -->
+
+✉️ saraalite@gmail.com
