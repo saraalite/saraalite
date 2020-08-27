@@ -15,7 +15,7 @@ Below you can check some of the projects that I started during the course, remem
 
 I am from Spain 🇪🇸 and I live in Madrid.
 
-In my free time I love reading 📚 about nutrition and psychology (but I also enjoy a good novel!), watching good horror movies 💀, wandering around the city or the nature 🍂, doing handcrafts ✂️ and I am a total nerd of vegan cooking! 🥦
+In my free time I love reading 📚 about nutrition and psychology (but I also enjoy a good novel!), watching good horror movies 💀, wandering around the city or the nature 🍂, playing board games 🎲, doing handcrafts ✂️ and I am a total nerd of vegan cooking! 🥦
 
 ### Currently learning
 
