@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="./fondo.jpg" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/saraalite/saraalite/master/fondo.jpg" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div>
 
 # 👋🏻 Hi, I'm Sara Alite! 💻
 
