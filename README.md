@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/saraalite/saraalite/master/fondo.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div>
+<div style="text-align:center"><img src="./fondo.jpg" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div>
 
 # 👋🏻 Hi, I'm Sara Alite! 💻
 
@@ -36,3 +36,5 @@ You can find me on Linkedin and Twitter. You can also send me an email, I am cur
 <!-- <a href="mailto:saraalite@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%23694680?logo=gmail&logoColor=white"></a> -->
 
 ✉️ saraalite@gmail.com
+
+<!--src="https://raw.githubusercontent.com/saraalite/saraalite/master/fondo.png" -->
