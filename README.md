@@ -2,7 +2,7 @@
 
 # 👋🏻 Hi, I'm Sara Alite! 💻
 
-![ASD](https://img.shields.io/badge/Javascript-grey?logo=javascript&logoColor=yellow) ![ASD](https://img.shields.io/badge/React-blue?logo=react&logoColor=white) ![ASD](https://img.shields.io/badge/HTML5-grey?logo=html5&logoColor=orange) ![ASD](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)![ASD](https://img.shields.io/badge/Bootstrap-blueviolet?logo=bootstrap&logoColor=white) ![ASD](https://img.shields.io/badge/SASS-ff69b4?logo=SASS&logoColor=white) ![ASD](https://img.shields.io/badge/Git-red?logo=Git&logoColor=white)
+![ASD](https://img.shields.io/badge/Javascript-grey?logo=javascript&logoColor=yellow) ![ASD](https://img.shields.io/badge/React-blue?logo=react&logoColor=white) ![ASD](https://img.shields.io/badge/HTML5-grey?logo=html5&logoColor=orange) ![ASD](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white) ![ASD](https://img.shields.io/badge/Bootstrap-blueviolet?logo=bootstrap&logoColor=white) ![ASD](https://img.shields.io/badge/SASS-ff69b4?logo=SASS&logoColor=white) ![ASD](https://img.shields.io/badge/Git-red?logo=Git&logoColor=white)
 
 ## I am a front end developer 👩🏻‍💻
 
